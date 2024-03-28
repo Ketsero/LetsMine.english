@@ -3,9 +3,9 @@
 <title>Main page of the project LetsMine.ua</title>
 <body style="font-family:san-serif">
 <header style="background-color:black; color:white">
-<a href="https://ketsero.github.io/LetsMine.ukraine/"; style="color:white">Переклад Українською</a>
+<a href="https://ketsero.github.io/LetsMine.ukraine/">Переклад Українською</a>
 <p></p>
-<a href="https://ketsero.github.io/LetsMine.english/"; style="color:white">English translation</a>
+<a href="https://ketsero.github.io/LetsMine.english/">English translation</a>
 </header>
 <main style="background-color:lightgray">
 <h1 style="background-color:lightgray; font-size:50px; text-align:center">About our project</h1>
