@@ -4,6 +4,7 @@
 <body style="font-family:san-serif">
 <header style="background-color:black; color:white">
 <a href="https://ketsero.github.io/LetsMine.ukraine/"; style="color:white">Переклад Українською</a>
+<p></p>
 <a href="https://ketsero.github.io/LetsMine.english/"; style="color:white">English translation</a>
 </header>
 <main style="background-color:lightgray">
