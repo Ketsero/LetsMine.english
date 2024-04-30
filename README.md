@@ -1,4 +1,4 @@
-# LetsMine.english
+# LetsMine.englis
 <html>
 <title>Main page of the project LetsMine.ua</title>
 <head>
