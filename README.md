@@ -1,10 +1,12 @@
 # LetsMine.english
 <html>
 <title>Main page of the project LetsMine.ua</title>
+<head>
+<link rel="stylesheet" href="style.css"/>   
+</head>
 <body style="font-family:san-serif">
 <header style="background-color:black; color:white">
 <a href="https://ketsero.github.io/LetsMine.ukraine/">Переклад Українською</a>
-<p></p>
 <a href="https://ketsero.github.io/LetsMine.english/">English translation</a>
 </header>
 <main style="background-color:lightgray">
